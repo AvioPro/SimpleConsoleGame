@@ -1,0 +1,12 @@
+Hello there! 
+General Kenobi!
+ :)
+
+Hello user, here we will walk you through the game we made, how to play it and a lot more.
+
+First you have to login or register. Than you can make yourself a battleship and start a battle.
+You will be fighting against a Computer generated enemy with similar characteristics.
+
+Hope you enjoy. Wish you all good.
+
+Bravo Six going dark! :)
